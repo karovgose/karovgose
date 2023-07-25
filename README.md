@@ -1,13 +1,7 @@
-- 👋 Hi, I’m Gose Karov.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Java Script and React.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--  Hi there, I'm Gose Karov 👋
-
+Hi there, I'm Gose Karov 👋
 Welcome to my GitHub profile! I'm a passionate web developer who loves to create and explore new things in the world of web development.
 - 🌱 About Me
-
+- 
 - 🔭 I’m currently learning web development and constantly working on personal projects to improve my skills.
 - 🌐 I'm enthusiastic about front-end technologies, including HTML, CSS, and JavaScript.
 - ⚙️ I'm also getting my hands dirty with various web frameworks and libraries.
