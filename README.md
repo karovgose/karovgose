@@ -19,7 +19,7 @@ Here are some of the technologies and tools I am familiar with:
 I believe that learning by doing is the best way to grow as a developer, so I've been working on some exciting projects. Check out a few of them:
 
 1. [LibraNet]([link-to-project1](https://github.com/karovgose/libra-net)): 📖 **Book Collection Management:** Libra Net allows you to effortlessly catalog and categorize your entire book collection.
-2. 🧮 Basic Calculator: It allows you to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division, with ease. The calculator has a clean and modern design, making it visually appealing and easy to use.
+2. 🧮 Basic Calculator(https://github.com/karovgose/calculator): It allows you to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division, with ease. The calculator has a clean and modern design, making it visually appealing and easy to use.
 
 
 ## 🤝 Let's Connect
