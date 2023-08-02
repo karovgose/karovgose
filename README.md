@@ -20,7 +20,7 @@ I believe that learning by doing is the best way to grow as a developer, so I've
 
 1. [LibraNet] (https://github.com/karovgose/libra-net)): 📖 **Book Collection Management:** Libra Net allows you to effortlessly catalog and categorize your entire book collection.
 2. 🧮 Basic Calculator(https://github.com/karovgose/calculator): It allows you to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division, with ease. The calculator has a clean and modern design, making it visually appealing and easy to use.
-
+3. Tic Tac Toe Game 🎮(https://github.com/karovgose/tictactoe). Tic Tac Toe game with modern design! I hope you have as much fun playing it as I had developing it. 
 
 ## 🤝 Let's Connect
 
