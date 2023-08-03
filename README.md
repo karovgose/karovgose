@@ -1,4 +1,4 @@
-#Hi there, I'm Gose Karov 👋
+## Hi there, I'm Gose Karov 👋
 Welcome to my GitHub profile! I'm a passionate web developer who loves to create and explore new things in the world of web development.
 ## 🌱 About Me
 - 🔭 I’m currently learning web development and constantly working on personal projects to improve my skills.
@@ -18,7 +18,7 @@ Here are some of the technologies and tools I am familiar with:
 
 I believe that learning by doing is the best way to grow as a developer, so I've been working on some exciting projects. Check out a few of them:
 
-1. 📖 LibraNet (https://github.com/karovgose/libra-net)):  **Book Collection Management:** Libra Net allows you to effortlessly catalog and categorize your entire book collection.
+1. 📖 LibraNet (https://github.com/karovgose/libra-net): Libra Net allows you to effortlessly catalog and categorize your entire book collection.
 2.  🧮 Basic Calculator(https://github.com/karovgose/calculator) : It allows you to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division, with ease. The calculator has a clean and modern design, making it visually appealing and easy to use.
 3. 🎮 Tic Tac Toe Game (https://github.com/karovgose/tictactoe). Tic Tac Toe game with modern design! I hope you have as much fun playing it as I had developing it. 
 4. 🍸COCKTAILCRAFTER (https://github.com/karovgose/cocktail-api/): Discover your favorite cocktails with my web app.  This app fetches data from a cocktails API, allowing you to search cocktails by name . Explore a vast collection of cocktail information, including names, images, and more.
