@@ -22,6 +22,7 @@ I believe that learning by doing is the best way to grow as a developer, so I've
 2.  🧮 Basic Calculator(https://github.com/karovgose/calculator) : It allows you to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division, with ease. The calculator has a clean and modern design, making it visually appealing and easy to use.
 3. 🎮 Tic Tac Toe Game (https://github.com/karovgose/tictactoe). Tic Tac Toe game with modern design! I hope you have as much fun playing it as I had developing it. 
 4. 🍸COCKTAILCRAFTER (https://github.com/karovgose/cocktail-api/): Discover your favorite cocktails with my web app.  This app fetches data from a cocktails API, allowing you to search cocktails by name . Explore a vast collection of cocktail information, including names, images, and more.
+5. 🔆🌦️ Weather-app(https://github.com/karovgose/weather-app): Get instant access to real-time weather updates and forecasts for any location. 
 ## 🤝 Let's Connect
 
 
