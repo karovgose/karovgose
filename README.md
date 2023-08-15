@@ -1,6 +1,8 @@
 Hello, I'm Gose Karov! 👋
 
 Welcome to my GitHub profile, where my journey as a web developer unfolds. I'm driven by a passion for crafting innovative solutions in the realm of web development.
+
+
 🌱 About Me
 
     🔭 Currently immersed in the world of web development, I'm dedicated to honing my skills through hands-on projects and continuous learning.
