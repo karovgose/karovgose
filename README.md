@@ -1,19 +1,12 @@
-## Hi there, I'm Gose Karov 👋
-Welcome to my GitHub profile! I'm a passionate web developer who loves to create and explore new things in the world of web development.
-## 🌱 About Me
-- 🔭 I’m currently learning web development and constantly working on personal projects to improve my skills.
-- 🌐 I'm enthusiastic about front-end technologies, including HTML, CSS, and JavaScript.
-- ⚙️ I'm also getting my hands dirty with various web frameworks and libraries.
-- 📫 You can reach me via email at karovgose7@gmail.com.
+Hello, I'm Gose Karov! 👋
 
-##  🔧 Technologies & Tools
+Welcome to my GitHub profile, where my journey as a web developer unfolds. I'm driven by a passion for crafting innovative solutions in the realm of web development.
+🌱 About Me
 
-Here are some of the technologies and tools I am familiar with:
-
-- HTML, CSS, JavaScript
-- Bootstrap
-- Git & GitHub
-
+    🔭 Currently immersed in the world of web development, I'm dedicated to honing my skills through hands-on projects and continuous learning.
+    🌐 My curiosity is piqued by the intricacies of front-end technologies like HTML, CSS, and JavaScript.
+    ⚙️ I'm actively exploring a variety of web frameworks and libraries, eager to expand my toolkit.
+    📫 Feel free to connect with me via email at karovgose7@gmail.com.
   ## 🌟 Projects
 
 I believe that learning by doing is the best way to grow as a developer, so I've been working on some exciting projects. Check out a few of them:
