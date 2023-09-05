@@ -1,4 +1,4 @@
-Hello, I'm Gose Karov! 👋
+#Hello, I'm Gose Karov! 👋
 
 Welcome to my GitHub profile, where my journey as a web developer unfolds. I'm driven by a passion for crafting innovative solutions in the realm of web development.
 
