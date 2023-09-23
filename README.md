@@ -5,7 +5,7 @@ Welcome to my GitHub profile, where my journey as a web developer unfolds. I'm d
 
     🔭 Currently, I'm fully immersed in the world of web development with a primary focus on mastering React, a dynamic front-end technology that excites me immensely.
     🌐 My curiosity extends to the intricacies of HTML, CSS, and JavaScript, which provide the foundation for my React journey.
-    🚀 Currently, I'm on an exciting journey of growth and learning, with a strong focus on mastering React, a powerful front-end technology. While I have a solid foundation in HTML, CSS, and JavaScript, I'm             channeling my energies into becoming a React expert. This framework serves as the cornerstone of my projects, enabling me to build dynamic and user-friendly web applications.
+    🚀 Currently, I'm on an exciting journey of growth and learning, with a strong focus on mastering React, a powerful front-end technology. While I have a solid foundation in HTML, CSS, and JavaScript, I'm channeling my energies into becoming a React expert. This framework serves as the cornerstone of my projects, enabling me to build dynamic and user-friendly web applications.
     🌟 In addition to my React expertise, I'm well-versed in Bootstrap, and I use its responsive design capabilities to create polished and visually appealing web interfaces.
 
 📫 Feel free to connect with me via email at karovgose7@gmail.com. I'm always eager to collaborate with fellow developers and explore the endless possibilities of web development. Let's code together and make the web a more exciting and functional place!
