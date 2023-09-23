@@ -1,14 +1,15 @@
 # Hello, I'm Gose Karov! 👋
-
 Welcome to my GitHub profile, where my journey as a web developer unfolds. I'm driven by a passion for crafting innovative solutions in the realm of web development.
 
+## 🌱 About Me
 
-🌱 About Me
+    🔭 Currently, I'm fully immersed in the world of web development with a primary focus on mastering React, a dynamic front-end technology that excites me immensely.
+    🌐 My curiosity extends to the intricacies of HTML, CSS, and JavaScript, which provide the foundation for my React journey.
+    ⚙️ I'm actively exploring various web frameworks and libraries, aiming to expand my toolkit and create even more impressive projects.
+    🌟 In addition to my React expertise, I'm well-versed in Bootstrap, and I use its responsive design capabilities to create polished and visually appealing web interfaces.
 
-    🔭 Currently immersed in the world of web development, I'm dedicated to honing my skills through hands-on projects and continuous learning.
-    🌐 My curiosity is piqued by the intricacies of front-end technologies like HTML, CSS, and JavaScript.
-    ⚙️ I'm actively exploring a variety of web frameworks and libraries, eager to expand my toolkit.
-    📫 Feel free to connect with me via email at karovgose7@gmail.com.
+📫 Feel free to connect with me via email at karovgose7@gmail.com. I'm always eager to collaborate with fellow developers and explore the endless possibilities of web development. Let's code together and make the web a more exciting and functional place!
+
   ## 🌟 Projects
 
 I believe that learning by doing is the best way to grow as a developer, so I've been working on some exciting projects. Check out a few of them:
@@ -20,7 +21,8 @@ I believe that learning by doing is the best way to grow as a developer, so I've
 5. 🔆🌦️ Weather-app(https://github.com/karovgose/weather-app): Get instant access to real-time weather updates and forecasts for any location.
 6. 💰Currency conversion web app(https://github.com/karovgose/currency-convertor):  Discover seamless currency conversion with our intuitive web app. Effortlessly convert between various global currencies with a sleek and user-friendly interface, providing real-time  exchange rates and accurate results.
 7. 🍴 Meal finder (https://github.com/karovgose/meal-finder): Discover delectable meals at your fingertips – search or shuffle for culinary inspiration!
-8. 🐟 Seafood menu(https://github.com/karovgose/seafood-menu).With our Seafood Menu App, you can explore a vast array of seafood dishes that showcase the freshest catches from the depths of the ocean
+8. 🐟 Seafood menu(https://github.com/karovgose/seafood-menu).With our Seafood Menu App, you can explore a vast array of seafood dishes that showcase the freshest catches from the depths of the ocean.
+9. 📃 To do list (https://github.com/karovgose/to-do-app).A simple and efficient to-do list app to help you stay organized and productive.
 ## 🤝 Let's Connect
 
 
