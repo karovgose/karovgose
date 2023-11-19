@@ -21,7 +21,7 @@ I believe that learning by doing is the best way to grow as a developer, so I've
 5. 🔆🌦️ Weather-app(https://github.com/karovgose/weather-app): Get instant access to real-time weather updates and forecasts for any location.
 6. 💰Currency conversion web app(https://github.com/karovgose/currency-convertor):  Discover seamless currency conversion with our intuitive web app. Effortlessly convert between various global currencies with a sleek and user-friendly interface, providing real-time  exchange rates and accurate results.
 7. 🍴 Meal finder (https://github.com/karovgose/meal-finder): Discover delectable meals at your fingertips – search or shuffle for culinary inspiration!
-8. 🐟 Seafood menu(https://github.com/karovgose/seafood-menu).With our Seafood Menu App, you can explore a vast array of seafood dishes that showcase the freshest catches from the depths of the ocean.
+8. 🐟 Seafood menu(https://github.com/karovgose/seafood-menu ).With our Seafood Menu App, you can explore a vast array of seafood dishes that showcase the freshest catches from the depths of the ocean.
 9. Project in React project with a login form and protected routes to access projects https://github.com/karovgose/react-projects.
 
 
