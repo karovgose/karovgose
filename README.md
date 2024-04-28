@@ -23,6 +23,6 @@ I believe that learning by doing is the best way to grow as a developer, so I've
 9. 🍕 [PizzaTopia](https://github.com/karovgose/PizzaTopia): Design your dream pizza with PizzaTopia, featuring a wide range of toppings and sauces to choose from.
 10. 📝 [Blogburst](https://github.com/karovgose/blogburst): Revolutionize your blogging experience with Blogburst, a cutting-edge blog application designed for seamless content creation and sharing.
 11. 🌍 [Far Away Travel List](https://github.com/karovgose/far-away-travel-list): Keep track of your dream travel destinations with this simple yet effective travel bucket list organizer.
-12. 🌐 [Portfolio Website](https://github.com/karovgose/personal-portfolio): Showcase your skills and projects with a personalized portfolio website designed to impress potential employers and clients.
+12. 🌐 [Portfolio Website](https://github.com/karovgose/portfolio): Showcase your skills and projects with a personalized portfolio website designed to impress potential employers and clients.
 
 Feel free to explore these projects and connect with me via email at karovgose7@gmail.com. Let's code together and make the web (and mobile) a more exciting and functional place!
